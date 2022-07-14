@@ -1,0 +1,6 @@
+
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çäı8Ò€”‚Ÿ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ»ÿøÿÿÿÿ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ…¬ÿÿÿÿÿ8‰¹“‚Ÿ0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ñîÁ±øÿÿÿÿ8¬•‚Ÿ0

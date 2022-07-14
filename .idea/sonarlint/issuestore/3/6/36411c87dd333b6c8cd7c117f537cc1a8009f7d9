@@ -1,0 +1,9 @@
+
+?
+java:S1659""Declare "temp" on a separate line.(Êµëþ8¨ßâ‹š/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ«ù¤
+U
+java:S1197"8Move the array designator from the variable to the type.(ð°š‘8˜¡—¯ç/
+<
+java:S1659"Declare "j" on a separate line.(üÙÞË8‰û˜¯ç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8»ÆÏÂç/

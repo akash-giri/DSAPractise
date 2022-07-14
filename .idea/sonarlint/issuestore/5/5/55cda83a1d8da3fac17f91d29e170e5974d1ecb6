@@ -1,0 +1,16 @@
+
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÒ»áøÿÿÿÿ8ÓÂı¾Ÿ0
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(üÙÅĞşÿÿÿÿ8´Ÿğ¾Ÿ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂâŠ¿
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ê¢úÓ8¾Ã‹¿Ÿ0
+Œ
+java:S1319"jThe type of the "hm" object should be an interface such as "Map" rather than the implementation "HashMap".(üÙÅĞşÿÿÿÿ8ù«‚¿Ÿ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£å‰úÿÿÿÿ8†¤¿Ÿ0
+E
+java:S1604"(Make this anonymous inner class a lambda(–ì¯ù8ÌË‚¿Ÿ0
+8
+java:S36267"Remove this redundant jump.(ÉŠ©ƒ8¸ş®¿Ÿ0
+r
+java:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ÓÂı¾Ÿ0
+J	java:S108K")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8İÄ¾¿Ÿ0

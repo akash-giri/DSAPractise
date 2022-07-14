@@ -1,0 +1,28 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Ù©È±8ÏÀÈŠà/
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÏÀÈŠà/
+9
+java:S3626™"Remove this redundant jump.(ûÁİ…8ÏÀÈŠà/
+t
+java:S3776K"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(®­³¹øÿÿÿÿ8ÏÀÈŠà/
+A
+java:S1659X"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8ÏÀÈŠà/
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÏÀÈŠà/
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(úŒ‚™8ÏÀÈŠà/
+V	java:S106³"9Replace this use of System.out or System.err by a logger.(† ¶„8ÏÀÈŠà/
+V
+java:S1197 "8Move the array designator from the variable to the type.(úÂ“8ÏÀÈŠà/
+Z
+java:S1197K"8Move the array designator from the variable to the type.(®­³¹øÿÿÿÿ8ÏÀÈŠà/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Ù©È±8ÏÀÈŠà/
+Z
+java:S1197K"8Move the array designator from the variable to the type.(®­³¹øÿÿÿÿ8ÏÀÈŠà/
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8ÏÀÈŠà/
+[
+java:S1197Ÿ"8Move the array designator from the variable to the type.(“È¥÷ıÿÿÿÿ8õ˜©¡¢/
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(ü‰í¾ÿÿÿÿÿ8ÏÀÈŠà/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÏÀÈŠà/
+A
+java:S1659X"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ8ÏÀÈŠà/
+X	java:S1253"<This block of commented-out lines of code should be removed.(Ú°à¬8ÏÀÈŠà/

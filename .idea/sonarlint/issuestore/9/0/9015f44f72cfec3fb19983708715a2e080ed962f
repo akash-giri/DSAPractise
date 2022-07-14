@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Áè‚şÿÿÿÿ8ÈÌ‚¼é/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Áè‚şÿÿÿÿ8ÈÌ‚¼é/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û•š‚şÿÿÿÿ8ÚŞ¼é/
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8åå‡¼é/
+
+java:S1319"lThe type of the "B" object should be an interface such as "List" rather than the implementation "ArrayList".(¨Áè‚şÿÿÿÿ8ÈÌ‚¼é/
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Àİ“U8á´÷ºé/

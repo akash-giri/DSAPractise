@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(œ¬Á
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”â æıÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü«¤¥
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Øçõ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Øçõ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìáÇ¢øÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(“Øçõ
+8
+java:S1659""Declare "sum2" on a separate line.(Ùãû½

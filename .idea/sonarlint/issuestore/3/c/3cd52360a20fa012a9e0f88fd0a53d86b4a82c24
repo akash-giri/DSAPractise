@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãäà®8¯º†ò£/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ«ù¤
+Z
+java:S1197"8Move the array designator from the variable to the type.(üý¸Êüÿÿÿÿ8¯º†ò£/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üý¸Êüÿÿÿÿ8¯º†ò£/
+<
+java:S1659	"Declare "r" on a separate line.(ƒ˜´¯8¯º†ò£/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üý¸Êüÿÿÿÿ8¯º†ò£/

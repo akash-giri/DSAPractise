@@ -1,0 +1,14 @@
+
+Y
+java:S1155$">Use isEmpty() to check whether the collection is empty or not.(Àô¶Šùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ»ÿøÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çäı
+V	java:S125	"<This block of commented-out lines of code should be removed.(Úÿ¨”ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÑğ
+N
+java:S1197"8Move the array designator from the variable to the type.(ˆ¦·ñ
+S
+java:S1197+"8Move the array designator from the variable to the type.(õ‹ü€şÿÿÿÿ

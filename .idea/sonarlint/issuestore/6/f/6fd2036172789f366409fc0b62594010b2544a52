@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+8
+java:S1643"Use a StringBuilder instead.(Íç£8ŞìéŸî/
+>
+java:S16437"Use a StringBuilder instead.(ÎĞã¯ùÿÿÿÿ8Ó²¥ î/
+]	java:S125="<This block of commented-out lines of code should be removed.(ª’”ıÿÿÿÿ8Ó²¥ î/
+U
+java:S1197?"8Move the array designator from the variable to the type.(“¹ÿ÷8Ó²¥ î/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Õ¢¨ î/
+L
+java:S3740@"/Provide the parametrized type for this generic.(µÛèÃ8Ó²¥ î/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôª£²ùÿÿÿÿ8ŞìéŸî/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8âÒª î/
+X	java:S125"<This block of commented-out lines of code should be removed.(Õ‘Å¦8ª« î/

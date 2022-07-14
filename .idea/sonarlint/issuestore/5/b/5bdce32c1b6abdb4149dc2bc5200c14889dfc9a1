@@ -1,0 +1,23 @@
+
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ß«é„8˜£Àè¡/
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ƒº÷™8˜£Àè¡/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’İş8é´Ÿç¡/
+Z
+java:S1197D"8Move the array designator from the variable to the type.(˜Õ­àüÿÿÿÿ8’“ôç¡/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+M
+java:S1172D"+Remove this unused method parameter "size".(˜Õ­àüÿÿÿÿ8³ßÀè¡/
+
+java:S1319h"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÿ£ïî8é»·¬ı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§„­¶şÿÿÿÿ8é»·¬ı/
+U
+java:S1197R"8Move the array designator from the variable to the type.(‡ªÖÏ8é»·¬ı/
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(Ù©È±8é»·¬ı/
+U
+java:S1197h"8Move the array designator from the variable to the type.(ÿ£ïî8é»·¬ı/
+{
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š›ÒÏşÿÿÿÿ8é»·¬ı/
+{
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı®†Áøÿÿÿÿ8é»·¬ı/
+^	java:S125"<This block of commented-out lines of code should be removed.(½•Êøÿÿÿÿ8é»·¬ı/

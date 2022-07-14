@@ -1,0 +1,20 @@
+
+n	java:S135_"YReduce the total number of break and continue statements in this loop to use at most one.(ŸðÑµ
+r	java:S127)"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨úÙ¨øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âžû©
+P	java:S125"<This block of commented-out lines of code should be removed.(£ßµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œˆ”€þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÀŽç¥
+N
+java:S1197B"8Move the array designator from the variable to the type.(êÑ¼™
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŽþ³øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(§í¦æ
+9
+java:S1659B"#Declare "start" on a separate line.(êÑ¼™
+=
+java:S11723"(Remove this unused method parameter "s".(îŽ™`
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(™¢£Šÿÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¿­
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÀêÓúÿÿÿÿ
+5
+java:S1659B"Declare "i" on a separate line.(êÑ¼™

@@ -1,0 +1,19 @@
+
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(òÒëèûÿÿÿÿ8·™èä˜/
+S
+java:S1197p"8Move the array designator from the variable to the type.(£ôŠ üÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(ú›Í°ùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¯Òñ¯ÿÿÿÿÿ
+]	java:S125x"<This block of commented-out lines of code should be removed.(³÷Ñùÿÿÿÿ8Ÿ¹´†ç/
+S
+java:S1197V"8Move the array designator from the variable to the type.(€¥Šÿÿÿÿÿ
+]
+java:S3973["GUse indentation to denote the code conditionally executed by this "if".(¸üŸß
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤8¶ùûë™/
+P	java:S125("<This block of commented-out lines of code should be removed.(’à¢_
+S
+java:S1197"8Move the array designator from the variable to the type.(ğõãŠûÿÿÿÿ
+A
+java:S1659r"Declare "k" on a separate line.(‘‹¼­øÿÿÿÿ8úƒèä˜/

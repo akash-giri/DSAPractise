@@ -1,0 +1,10 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(”øâñøÿÿÿÿ8ÚÅßÆî/
+]	java:S125"<This block of commented-out lines of code should be removed.(ğû‚Ïûÿÿÿÿ8¸û¨Æî/
+C
+java:S1481"&Remove this unused "k" local variable.(¢³¯¯8¤¤äÆî/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+]	java:S125&"<This block of commented-out lines of code should be removed.(µ‚†÷üÿÿÿÿ8úşÇî/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êñÁ8ÚÅßÆî/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ã¥À¸8úÍşÇî/

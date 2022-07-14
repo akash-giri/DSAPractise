@@ -1,0 +1,8 @@
+
+V	java:S125B"<This block of commented-out lines of code should be removed.(§•ç©ùÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(ôÖ
+P
+java:S1481J"5Remove this unused "minimumOperation" local variable.(Âº§˜ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+_
+java:S1854J"DRemove this useless assignment to local variable "minimumOperation".(Âº§˜ıÿÿÿÿ

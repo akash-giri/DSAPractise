@@ -1,0 +1,33 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¥ŠÛ‹8ñËè«ë/
+A
+java:S1659"$Declare "mincol" on a separate line.(…¨ÉØ8ñËè«ë/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8ñËè«ë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸î“Èÿÿÿÿÿ8ñËè«ë/
+\
+java:S1994":Move the update of "count" into this loop's update clause.(øÒ‹×ûÿÿÿÿ8ñËè«ë/
+@
+java:S1659"#Declare "count" on a separate line.(…¨ÉØ8ñËè«ë/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ñËè«ë/
+\
+java:S1994,":Move the update of "count" into this loop's update clause.(íßÄËúÿÿÿÿ8ñËè«ë/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¥ŠÛ‹8ñËè«ë/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘¤ƒÙ8ñËè«ë/
+A
+java:S1659"$Declare "maxcol" on a separate line.(…¨ÉØ8ñËè«ë/
+A
+java:S1659"$Declare "maxrow" on a separate line.(…¨ÉØ8ñËè«ë/
+W
+java:S1994&":Move the update of "count" into this loop's update clause.(²İ×8ñËè«ë/
+e
+java:S1192"HDefine a constant instead of duplicating this literal " row = " 4 times.(¥ŠÛ‹8ñËè«ë/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¥ŠÛ‹8ñËè«ë/
+e
+java:S1192"HDefine a constant instead of duplicating this literal " column" 4 times.(¥ŠÛ‹8ñËè«ë/
+@
+java:S1659"#Declare "total" on a separate line.(…¨ÉØ8ñËè«ë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ŠÛ‹8ñËè«ë/
+W
+java:S1994 ":Move the update of "count" into this loop's update clause.(ıÅ»¦8ñËè«ë/

@@ -1,0 +1,17 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÇî%8Å¯ù‚Ÿ0
+F
+java:S5411+"*Use the primitive boolean expression here.(Ìà™+8øæù‚Ÿ0
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÇî%8Å¯ù‚Ÿ0
+L
+java:S5411-"*Use the primitive boolean expression here.(Ù¦Áïÿÿÿÿÿ8øæù‚Ÿ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ»ÿøÿÿÿÿ
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ8Å¯ù‚Ÿ0
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì­¥Â8øæù‚Ÿ0
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Éª­Øÿÿÿÿÿ8Å¯ù‚Ÿ0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾›«Õ8­¬â‡Ÿ0
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºşšøÿÿÿÿ8­¬â‡Ÿ0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(›à¸ùÿÿÿÿ8­¬â‡Ÿ0

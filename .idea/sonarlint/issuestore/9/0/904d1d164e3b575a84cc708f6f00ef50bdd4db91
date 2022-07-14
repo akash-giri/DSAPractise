@@ -1,0 +1,20 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôØĞ¼8½­†²Ÿ0
+C	java:S131	""Add a default case to this switch.(ìÃŒüÿÿÿÿ8Ñ»‡²Ÿ0
+r
+java:S1149""PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8ëğ‡²Ÿ0
+=
+java:S2129" Remove this "String" constructor(ôÛÎÜ8Ñ»‡²Ÿ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ»ÿøÿÿÿÿ
+9
+java:S16439"Use a StringBuilder instead.(Ü¸¥í8ëğ‡²Ÿ0
+9
+java:S1643A"Use a StringBuilder instead.(Ü¸¥í8ëğ‡²Ÿ0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø²§òúÿÿÿÿ8Ñ»‡²Ÿ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Áüîø8Ñ»‡²Ÿ0
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¢¡ç‚ıÿÿÿÿ8Ñ»‡²Ÿ0
+9
+java:S1643L"Use a StringBuilder instead.(Ü¸¥í8ëğ‡²Ÿ0
+>
+java:S1643+"Use a StringBuilder instead.(ßòÉÑøÿÿÿÿ8Ñ»‡²Ÿ0

@@ -1,0 +1,17 @@
+
+>
+java:S1444"(Make this "public static in" field final(ä×äƒ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÒÇ‰üÿÿÿÿ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ö
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú§Î¤
+d
+java:S1104"NMake in a static final constant or non-public and provide accessors if needed.(ä×äƒ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ğ²ÙÎşÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(•ÓÅ~
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔŸõûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(¹ÄÓS
+:
+java:S16598"Declare "j" on a separate line.(Æ™‚ùÿÿÿÿ
+:
+java:S16598"Declare "k" on a separate line.(Æ™‚ùÿÿÿÿ

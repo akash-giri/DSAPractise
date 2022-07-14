@@ -1,0 +1,23 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶ŠĞÿıÿÿÿÿ8¤Íâ¨è/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¶ŠĞÿıÿÿÿÿ8òîä¨è/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(«ëĞıÿÿÿÿ8Ã”ˆ†›/
+W	java:S125c"<This block of commented-out lines of code should be removed.(³ğíj8Ò±¶Ø›/
+A
+java:S1659"Declare "j" on a separate line.(ı²ïºÿÿÿÿÿ8ËŞ¨è/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(åã„´ùÿÿÿÿ8Ã”ˆ†›/
+{
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÀÆ¹úÿÿÿÿ8•´ƒ‡›/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶ŠĞÿıÿÿÿÿ8¤Íâ¨è/
+A
+java:S1659M"Declare "j" on a separate line.(ı²ïºÿÿÿÿÿ8õùï¨è/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÇÊ½ˆ8ŞÏã¨è/
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8Î ÎØ›/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(¶ŠĞÿıÿÿÿÿ8õùï¨è/
+]	java:S125x"<This block of commented-out lines of code should be removed.(ğÕûÿÿÿÿ8×ïÎØ›/
+{
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş‡Çûÿÿÿÿ8•´ƒ‡›/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÊ½ˆ8İ›à¨è/
+Q
+java:S3740:"/Provide the parametrized type for this generic.(…Âıÿÿÿÿÿ8àÄˆ†›/

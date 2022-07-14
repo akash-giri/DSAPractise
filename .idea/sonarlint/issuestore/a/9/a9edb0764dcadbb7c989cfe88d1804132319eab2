@@ -1,0 +1,22 @@
+
+I
+java:S1168ø"+Return an empty collection instead of null.(¥¹ï8Êàí–ª/
+’
+java:S1319"pThe type of the "array" object should be an interface such as "List" rather than the implementation "ArrayList".(‚Ã•³şÿÿÿÿ8æº©Û©/
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8¬É²Û©/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò‹ı”üÿÿÿÿ
+¤
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ8Êàí–ª/
+|
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ ŠÖøÿÿÿÿ8æº©Û©/
+¤
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£²«¬ıÿÿÿÿ8Êàí–ª/
+I
+java:S1168Œ"+Return an empty collection instead of null.(¥¹ï8Êàí–ª/
+I
+java:S1168¡"+Return an empty collection instead of null.(¥¹ï8Êàí–ª/
+h
+java:S2095Ğ"EUse try-with-resources or close this "Scanner" in a "finally" clause.(´¦Ü²úÿÿÿÿ8æº©Û©/
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(øŠŒüÿÿÿÿ8æº©Û©/
+F
+java:S1481Î")Remove this unused "line" local variable.(çäªq8æº©Û©/

@@ -1,0 +1,11 @@
+
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(óşÖØ8á–ß€ /
+T	java:S106"9Replace this use of System.out or System.err by a logger.(„ä„}8À¬ıÿŸ/
+p
+java:S1450"TRemove the "price" field and declare it as a local variable in the relevant methods.(ˆÑ€(8ìÏÛ€ /
+]	java:S125"<This block of commented-out lines of code should be removed.(®„æ¯øÿÿÿÿ8ìÏÛ€ /
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸèŸ
+E
+java:S1068")Remove this unused "price" private field.(ˆÑ€(8©ÚØ€ /
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦Òµøÿÿÿÿ8æà€ /

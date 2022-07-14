@@ -1,0 +1,14 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¢ÈÀá8üÖ©Ù›/
+=
+java:S1659
+" Declare "n2" on a separate line.(Ù û¬8äŸ™†›/
+X	java:S125$"<This block of commented-out lines of code should be removed.(í¤Ø²8Ëà è¡/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤8Ø©üë™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¥Ù¢ûÿÿÿÿ8Şõ˜/
+X	java:S125J"<This block of commented-out lines of code should be removed.(üŸïÅ8®Ğ¨è¡/
+D
+java:S1481
+"'Remove this unused "n2" local variable.(Ù û¬8üÖ©Ù›/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÁè³8Şõ˜/
+X	java:S125E"<This block of commented-out lines of code should be removed.(›”úƒ8©µÒã/

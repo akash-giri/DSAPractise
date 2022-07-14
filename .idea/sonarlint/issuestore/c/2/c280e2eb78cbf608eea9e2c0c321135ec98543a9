@@ -1,0 +1,11 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(œ™©øÿÿÿÿ8ñ¦•¼£/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÛŒËÙúÿÿÿÿ8ñ¦•¼£/
+U
+java:S11971"8Move the array designator from the variable to the type.(³Øà8ñ¦•¼£/
+L
+java:S3740$"/Provide the parametrized type for this generic.(Ÿè¦Ş8Áş˜¼£/
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¾ƒË¼£/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤

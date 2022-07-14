@@ -1,0 +1,12 @@
+
+^
+java:S2184"ACast one of the operands of this division operation to a "float".(—Äş8¹Ï°¸¬/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³°ÒĞûÿÿÿÿ8¹Ï°¸¬/
+C
+java:S2185"&Remove this silly call to "Math.round"(—Äş8¹Ï°¸¬/
+x
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ans".(áë¶Ä8¹Ï°¸¬/
+T
+java:S1135""2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¹Ï°¸¬/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş«ù¤
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Âåññÿÿÿÿÿ8¹Ï°¸¬/

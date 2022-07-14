@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âžû©
+“
+java:S1845"}Rename method "maxSubArrayProduct" to prevent any misunderstanding/clash with method "maxSubarrayProduct" defined on line 11.(±¸€ã
+=
+java:S1659""Declare "temp" on a separate line.(ä»ÅÎûÿÿÿÿ
+=
+java:S1659 ""Declare "temp" on a separate line.(ôÄúÓþÿÿÿÿ
+N
+java:S11972"8Move the array designator from the variable to the type.(»ŒÞ½
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(’¬‰«ùÿÿÿÿ

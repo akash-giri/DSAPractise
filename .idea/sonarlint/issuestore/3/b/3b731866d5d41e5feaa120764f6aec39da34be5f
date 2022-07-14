@@ -1,0 +1,13 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(â“Ñƒûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+V	java:S125"<This block of commented-out lines of code should be removed.(Î¢Ø¿ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñòÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äôªüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ»ÿøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ
+›
+java:S1130"„Remove the declaration of thrown exception 'com.code.StackAndQueue.CustomStackException', as it cannot be thrown from method's body.(Ò¾û
